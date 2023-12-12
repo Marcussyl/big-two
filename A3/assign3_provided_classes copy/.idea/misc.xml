@@ -1,0 +1,9 @@
+<project version="4">
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../../../../York src/Java/COMP2396 Asm/Assignment 3/assign3_provided_classes/3035786574 COMP2396 Assignment 3/javadoc" />
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="corretto-19" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
